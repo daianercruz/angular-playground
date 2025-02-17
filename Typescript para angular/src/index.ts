@@ -24,3 +24,17 @@ type ProdutoLoja = {
     unidade:number;
 
 };
+
+let meuProduto: ProdutoLoja = {
+    nome: "Tenis",
+    preco: 89.90,
+    unidade:60,
+
+};
+
+//Arrays
+
+
+let dados: string[] = ["Daiane", "Fabio", "Denis"];
+let dados2: Array<string>= ["Daiane", "Fabio", "Denis"];
+
