@@ -1,4 +1,5 @@
-# <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Icon" width="500" /> Angular PlayGround
+# <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Icon" width="500" /> 
+# Angular PlayGround
 
 Este repositório contém um projeto de estudo desenvolvido em **Angular**, com o objetivo de aprender os conceitos básicos e avançados do framework, incluindo criação de componentes, serviços, rotas e interação com APIs.
 
